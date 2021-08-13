@@ -37,7 +37,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       <div>
-        <input type="button" value="NEWssdfasdf" onClick={() => { onCreate(); getTodos(setTodos)} } />
+        <input type="button" value="sssss" onClick={() => { onCreate(); getTodos(setTodos)} } />
       </div>
       <table border="1">
         <thead>

@@ -17,6 +17,13 @@ export const schema = {
                     "isRequired": false,
                     "attributes": []
                 },
+                "nick": {
+                    "name": "nick",
+                    "isArray": false,
+                    "type": "String",
+                    "isRequired": false,
+                    "attributes": []
+                },
                 "createdAt": {
                     "name": "createdAt",
                     "isArray": false,
@@ -62,5 +69,5 @@ export const schema = {
     },
     "enums": {},
     "nonModels": {},
-    "version": "3a1af757192f83e45f3dd9ea54e39609"
+    "version": "bd5c79ae1ee2a6382528895fe2e6d410"
 };
