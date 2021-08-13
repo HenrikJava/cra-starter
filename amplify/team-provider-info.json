@@ -1,4 +1,17 @@
 {
+  "devp": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crastarter-devp-114751-authRole",
+      "UnauthRoleArn": "arn:aws:iam::780264188467:role/amplify-crastarter-devp-114751-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::780264188467:role/amplify-crastarter-devp-114751-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-crastarter-devp-114751-deployment",
+      "UnauthRoleName": "amplify-crastarter-devp-114751-unauthRole",
+      "StackName": "amplify-crastarter-devp-114751",
+      "StackId": "arn:aws:cloudformation:us-east-1:780264188467:stack/amplify-crastarter-devp-114751/4a37e5f0-fc2c-11eb-bce5-1212f512cf43",
+      "AmplifyAppId": "d1zatbdese6whj"
+    }
+  },
   "staging": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplify7fc507845a9c4-staging-82931-authRole",
